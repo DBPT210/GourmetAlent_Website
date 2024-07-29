@@ -6,12 +6,30 @@ body {
 header {
   background-color: #333;
   color: #fff;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 
 header.mainPage{
   background-color: #e99c5e;
+}
+
+header.carnePage{
+  background-color: #e41a31;
+}
+
+header.peixePage{
+  background-color: #523dc8;
+}
+header.sobremesasPage{
+  background-color: #e23180;
+}
+
+header.sopasPage{
+  background-color: #f7f531;
+}
+header.sopasPage a{
+  color: black;
 }
 
 nav ul {
