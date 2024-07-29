@@ -10,25 +10,27 @@ header {
   text-align: center;
 }
 
-header.mainPage{
+header.mainPage {
   background-color: #e99c5e;
 }
 
-header.carnePage{
+header.carnePage {
   background-color: #e41a31;
 }
 
-header.peixePage{
+header.peixePage {
   background-color: #523dc8;
 }
-header.sobremesasPage{
+
+header.sobremesasPage {
   background-color: #e23180;
 }
 
-header.sopasPage{
+header.sopasPage {
   background-color: #f7f531;
 }
-header.sopasPage a{
+
+header.sopasPage a {
   color: black;
 }
 
